@@ -65,7 +65,7 @@ export default function MarketingLayout({
 
           <div className="flex items-center gap-3">
             <Link
-              href="/auth/login"
+              href="/login"
               className="hidden rounded-2xl border border-gray-200 bg-white px-5 py-3 text-sm font-bold text-gray-700 transition hover:border-[#2563eb] hover:text-[#2563eb] sm:block"
             >
               Login
