@@ -320,33 +320,7 @@ export default function LoginPage() {
               </h3>
 
               <div className="space-y-5 text-sm">
-                <div>
-                  <p className="font-bold text-blue-600">
-                    Admin
-                  </p>
-
-                  <p className="text-gray-700">
-                    admin@cubixskill.com
-                  </p>
-
-                  <p className="text-gray-700">
-                    admin123
-                  </p>
-                </div>
-
-                <div>
-                  <p className="font-bold text-violet-600">
-                    Instructor
-                  </p>
-
-                  <p className="text-gray-700">
-                    rahul@cubixskill.com
-                  </p>
-
-                  <p className="text-gray-700">
-                    instructor123
-                  </p>
-                </div>
+                
 
                 <div>
                   <p className="font-bold text-green-600">
